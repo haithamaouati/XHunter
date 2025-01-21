@@ -3,7 +3,7 @@ XHunter is a Bash script that fetches detailed user information from 𝕏 (forme
 
 # Screenshot
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/haithamaouati/XHunter/refs/heads/main/screenshot.jpg)
 
 ## Usage
 
