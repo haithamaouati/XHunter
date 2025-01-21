@@ -27,7 +27,7 @@ echo -e "${bold}         XHunter${normal} by ${faint}hawkha_dz${normal}"
 echo -e "       ${underlined}github.com/haithamaouati${normal}\n"
 
 # X API Bearer Token (updated with your token)
-BEARER_TOKEN="AAAAAAAAAAAAAAAAAAAAAI2kxgEAAAAAfHkjjDffPRnlTu%2BwdH7%2FigwIfCw%3DIhGA013xE1q08PtVukLM8XWm71zxRmHXQW7EzGmtppmMMvhWs5"
+BEARER_TOKEN="enter your x bearer token"
 
 # Check if username argument is provided
 if [ -z "$1" ]; then
